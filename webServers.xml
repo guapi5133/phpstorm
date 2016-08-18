@@ -1,0 +1,102 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="105a3fa6-eaa1-4e88-bb34-71a54469c717" name="ubutun" url="http://localhost:81">
+        <fileTransfer host="192.168.24.190" port="22" accessType="SFTP" password="dfdadfcbdfd9dfd9dfdddfc5dfd8dfce" username="root">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="73b26880-b815-4fa0-9954-e1ce906b27e9" name="ftp" url="http://ftp.pku.edu.cn">
+        <fileTransfer anonymous="true" host="ftp.pku.edu.cn" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a535f187-83de-4be7-85dd-c94b235860db" name="197_train" url="http://192.168.28.197">
+        <fileTransfer host="192.168.28.197" port="21" rootFolder="/data/www/train" password="dfdedfcfdfc9dfc2df9bdf98df99" username="tech">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="86aad3c4-6d32-4438-a76a-2d9dbcc81b15" name="192.168.28.197_tongji" url="http://192.168.28.197">
+        <fileTransfer host="192.168.28.197" port="22" rootFolder="/data/www/train/public/tongji" accessType="SFTP" password="dfdedfcfdfc9dfc2df9bdf98df99" username="tech">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3f964cd1-65e0-4656-9386-b37fd00730d3" name="58.56.178.54_auth" url="http://58.56.178.54">
+        <fileTransfer host="58.56.178.54" port="9121" rootFolder="/data/www/jiaoyun/jiaoyun_auth" password="df9bdf9cdfe7dffadfdddf92dfccdff2dfe4dfe1dfdfdfe6dfdd" username="sherlock">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="9121" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="819492a0-8c35-44dd-94a5-d96cb596e6be" name="58.56.178.54_tongji" url="http://58.56.178.54">
+        <fileTransfer host="58.56.178.54" port="9121" rootFolder="/data/www/jiaoyun/jiaoyun_tongji" password="df9bdf9cdfe7dffadfdddf92dfccdff2dfe4dfe1dfdfdfe6dfdd" username="sherlock">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="9121" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d2af2497-eab7-4931-b49e-3ff81c359a5c" name="58.56.178.54_adm" url="http://58.56.178.54">
+        <fileTransfer host="58.56.178.54" port="9121" rootFolder="/data/www/jiaoyun/jiaoyun_adm" password="df9bdf9cdfe7dffadfdddf92dfccdff2dfe4dfe1dfdfdfe6dfdd" username="sherlock">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="9121" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c474a428-aedc-46f5-a63e-61d5b5195973" name="192.168.28.103" url="http://192.168.28.103">
+        <fileTransfer host="192.168.28.103" port="22" rootFolder="/data/www/train" accessType="SFTP" password="dfdadfcbdfd9dfd9dfdddfc5dfd8dfce" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bd8afaf5-143a-407c-bb92-e44a58de0512" name="195" url="http://192.168.28.195">
+        <fileTransfer host="192.168.28.195" port="21" rootFolder="/data/www/train" password="dfdadfcbdfd9dfd9dfdddfc5dfd8dfce" username="root">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="5c26e17c-6c6e-4516-9d0d-eec496807102" name="192.168.28.201" url="http://192.168.28.201">
+        <fileTransfer host="192.168.28.201" port="22" accessType="SFTP" password="dfdadfcbdfd9dfd9dfdddfc5dfd8dfce" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="3748b469-d379-4364-b249-150ef87101d3" name="ubuntu2" url="http://localhost:81">
+        <fileTransfer host="192.168.24.191" port="22" accessType="SFTP" password="dfdadfcbdfd9dfd9dfdddfc5dfd8dfce" username="root">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e8c0bbb1-b9c0-4f14-a065-b390e09fc7c4" name="内部统计" url="http://192.168.28.18">
+        <fileTransfer host="192.168.28.18" port="22" rootFolder="/data/" accessType="SFTP" password="dff3dfe7dfcfdffedf92df98dfcddfdcdfeedfc6dfe3dff8dfebdfe6dfe0dff5df92dfe1df98dfdf" username="young">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

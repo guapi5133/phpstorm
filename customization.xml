@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" />
+  </component>
+</application>
+

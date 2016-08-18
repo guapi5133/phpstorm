@@ -1,0 +1,15 @@
+<application>
+  <component name="UISettings">
+    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="ENABLE_ALPHA_MODE" value="true" />
+    <option name="ALPHA_MODE_DELAY" value="0" />
+    <option name="ALPHA_MODE_RATIO" value="0.0" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="20" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="22" />
+    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
+  </component>
+</application>

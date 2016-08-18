@@ -1,0 +1,9 @@
+<toolSet name="PHP扩展工具">
+  <tool name="PHP手册本地" description="PHP手册" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="hh.exe" />
+      <option name="PARAMETERS" value="-#klink $SelectedText$ F:\my\工作相关\php_manual_zh.chm" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
