@@ -90,7 +90,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="e8c0bbb1-b9c0-4f14-a065-b390e09fc7c4" name="内部统计" url="http://192.168.28.18">
-        <fileTransfer host="192.168.28.18" port="22" rootFolder="/data/" accessType="SFTP" password="dff3dfe7dfcfdffedf92df98dfcddfdcdfeedfc6dfe3dff8dfebdfe6dfe0dff5df92dfe1df98dfdf" username="young">
+        <fileTransfer host="192.168.28.18" port="22" rootFolder="/data/" accessType="SFTP" password="dfd0dfc2dfebdfe1dfe1df9edff5dfe7dfeddff2dfcbdfe2dff8df9bdfe8" username="root">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
